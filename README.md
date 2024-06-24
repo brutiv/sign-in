@@ -10,6 +10,12 @@ A simple and elegant registration form created with HTML, CSS, and JavaScript. T
 - **Forgot Password Link**: Directs users to reset their password.
 - **Form Submission Handling**: Basic validation and simulated login process.
 
+## Test Before Cloning
+1. Go To Your Web Browser And Paste The Link Below:
+   ```
+   https://shefki-berisha.github.io/sign-in/
+   ```
+
 ## Usage
 1. Clone the repository:
    ```
