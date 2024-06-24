@@ -23,7 +23,7 @@ A simple and elegant registration form created with HTML, CSS, and JavaScript. T
    ```
 2. Navigate to the project directory:
    ```
-   cd registration-form
+   cd sign-in
    ```
 3. Open `index.html` in your preferred web browser.
 
