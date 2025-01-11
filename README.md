@@ -19,7 +19,7 @@ A simple and elegant registration form created with HTML, CSS, and JavaScript. T
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/registration-form.git
+   git clone https://github.com/brutiv/registration-form.git
    ```
 2. Navigate to the project directory:
    ```
