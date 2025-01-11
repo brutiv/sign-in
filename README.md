@@ -13,7 +13,7 @@ A simple and elegant registration form created with HTML, CSS, and JavaScript. T
 ## Test Before Cloning
 1. Go To Your Web Browser And Paste The Link Below:
    ```
-   https://shefki-berisha.github.io/sign-in/
+   https://brutiv.github.io/sign-in/
    ```
 
 ## Usage
